@@ -1,4 +1,4 @@
-# strong.github.io
+# [strong.github.io](https://murderdeth.github.io/strong/)
 Website for strong.murderdeth.com
 
 ## Self betterment through honesty and voluntary hardship.
